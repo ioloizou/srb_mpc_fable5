@@ -24,7 +24,7 @@ convex-MPC formulation (Di Carlo et al., 2018) adapted to a line-foot biped.
 ## Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ioloizou/srb_mpc_fable5.git
 cd g1_srb_mpc
 pip install -r requirements.txt
 ```
