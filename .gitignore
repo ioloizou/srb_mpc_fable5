@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.gif
+*.png
+!docs/*.gif
+!docs/*.png
+.DS_Store

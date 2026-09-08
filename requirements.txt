@@ -1,0 +1,5 @@
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.5
+# optional QP backend; a built-in ADMM solver is used if this is absent
+# osqp>=0.6
